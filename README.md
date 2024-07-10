@@ -4,6 +4,10 @@
  
  Brazil real estate anilysis made on DataBricks.
 
+ Acesso a apresentação do notebook: // Access to the notebook presentation
+
+ https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/379836189977850/361796956483558/303635140206206/latest.html
+
  # PORTUGUESE
 
  
