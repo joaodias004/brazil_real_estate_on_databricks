@@ -2,7 +2,7 @@
  Análise do mercado imobiliario brasileiro no DataBricks. 
  
  
- Brazil real estate anilysis made on DataBricks.
+ Brazil real estate analysis made on DataBricks.
 
  Acesso a apresentação do notebook: // Access to the notebook presentation
 
